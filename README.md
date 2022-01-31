@@ -25,15 +25,15 @@ More references can be found in:
             Linear models, iris dataset, feature processing
   - Practical: something to do with NLP + tf idf
 
-
 - Linear Sequential models:
-  - 
+  - HMM, CRF
 
 - Neural Networks
-  - 
+  - CNNs, RNNs
 
 - Self-attention Networks and Transfer Learning
-  - 
+  - Transformers
+  - Huggingface library
 
 
 ## Preparing the environment
