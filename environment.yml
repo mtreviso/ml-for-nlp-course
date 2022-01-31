@@ -1,0 +1,15 @@
+name: ml-for-nlp-course
+dependencies:
+  - python=3.8
+  - numpy
+  - pillow
+  - scikit-learn
+  - jupyter
+  - matplotlib
+  - pip
+  - pandas
+  - scipy
+  - seaborn
+  - celluloid
+  - pip:
+    - timm

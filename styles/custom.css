@@ -1,0 +1,72 @@
+.text-center{
+    text-align: center;
+}
+.emphasis{
+    font-size: 110%;
+}
+.visible{
+    opacity: 1 !important;
+}
+.imgs{
+    margin: 0px 10px;
+}
+.blue-box{
+    text-align: left;
+    color: black;
+    padding: 10px 25px;
+    background-color: #dbe7ff;
+    border: 1px dashed #999;
+    margin: 10px 0px;
+    display: inline-block;
+    clear: both;
+    opacity: 0.2;
+}
+.red-box{
+    text-align: left;
+    color: black;
+    padding: 10px 25px;
+    background-color: #e6d5d5;
+    border: 1px dashed #999;
+    margin: 10px 0px;
+    display: inline-block;
+    clear: both;
+    opacity: 0.2;
+}
+.green-box{
+    text-align: left;
+    color: black;
+    padding: 10px 25px;
+    background-color: #d5e6d8;
+    border: 1px dashed #999;
+    margin: 10px 0px;
+    display: inline-block;
+    clear: both;
+    opacity: 0.2;
+}
+.blue-box:hover{
+    opacity: 1.0;
+}
+.red-box:hover{
+    opacity: 1.0;
+}
+.green-box:hover{
+    opacity: 1.0;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+.margin-left-20{
+    margin-left: 20px;
+}
+.margin-left-50{
+    margin-left: 50px;
+}
+.margin-left-100{
+    margin-left: 100px;
+}
+.clear{
+    clear: both;
+}

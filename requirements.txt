@@ -1,0 +1,10 @@
+celluloid
+ipdb
+jupyter
+matplotlib
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+seaborn
