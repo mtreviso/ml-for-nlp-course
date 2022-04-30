@@ -5,7 +5,7 @@ This repo contains practical examples and exercises that will be used throughout
 
 ## Background
 
-This course is a excerpt of the first set of lectures given at Lisbon Machine Learning Summer School (LxMLS). The goal is to provide a theoretical revision of ML alongside practical implementations, moving from shallow linear models, such as CRFs and SVMs, to modern deep learning models, such as recurrent and self-attention networks. In the end of the course, students will be able to understand modern deep learning architecures and write powerful state-of-the-art models via transfer learning using PyTorch. 
+This course is an excerpt from the first set of lectures given at Lisbon Machine Learning Summer School (LxMLS). The goal is to provide a theoretical revision of ML alongside practical implementations, moving from shallow linear models, such as CRFs and SVMs, to modern deep learning models, such as recurrent and self-attention networks. At the end of the course, students will be able to understand modern deep learning architectures and write powerful state-of-the-art models via transfer learning using PyTorch. 
 
 More references can be found in:
 - [Deep Structured Learning Course by André Martins](https://andre-martins.github.io/pages/deep-structured-learning-ist-fall-2020.html)
