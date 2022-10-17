@@ -1,4 +1,4 @@
-# Machine Learning for NLP course
+# Machine Learning for NLP course [work in progress]
 
 This repo contains practical examples and exercises that will be used throughout the course.
 
